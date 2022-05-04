@@ -1,0 +1,21 @@
+.button {
+	background-color: blueviolet;
+	display: inline-block;
+	text-align: center;
+	padding: 10px;
+	border-radius: 5px;
+}
+.primary {
+	background-color: blue;
+	color: white;
+}
+.primary:hover {
+	background-color: yellow;
+	transition: all 0.3s;
+}
+.ghost {
+	background-color: coral;
+}
+.aaa {
+	width: 200px;
+}

@@ -1,0 +1,29 @@
+.tag {
+  display: inline-block;
+  box-sizing: border-box;
+  border-radius: 20px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.s {
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 12px;
+}
+.m {
+  padding: 5px 10px;
+  font-size: 14px;
+  line-height: 14px;
+}
+.red {
+  border: 1px solid red;
+  background: hotpink;
+}
+.blue {
+  border: 1px solid blue;
+  background: indigo;
+}
+.green {
+  border: 1px solid green;
+  background: lawngreen;
+}
